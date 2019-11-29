@@ -1,0 +1,40 @@
+a{
+    text-decoration-line: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+a:link{color:gray}
+
+body{
+    background:url("../images/bg4.jpg");
+}
+
+.one{
+    height: 1500px;
+    width:1300px;
+    background:url("../images/timg0.jpg");
+    margin: auto;
+    background-repeat: no-repeat;
+    size:medium;
+    font-family: KaiTi;
+    text-align: center;
+    color:#eee;
+    padding:15px;
+}
+
+.two{
+    height: 160px;
+    width:1200px;
+    margin: auto;
+    font-size:larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:black;
+    padding:15px;
+}
+
+.music{
+    height:50px;
+    width:1100px;
+    text-align:right;
+    font-size: x-large;
+}

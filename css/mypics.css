@@ -1,0 +1,43 @@
+a{
+    text-decoration-line: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+}
+a:link{color:gray}
+
+body{
+    background-color:#bbb;
+    background:url("../images/bg3.jpg");
+    background-repeat: repeat;
+}
+
+.two{
+    height: 100px;
+    width:1300px;
+    margin: auto;
+    font-size:larger;
+    text-align: center;
+    font-family:KaiTi; 
+    text-align: center;
+    color:black;
+    padding:15px;
+}
+
+.three{
+    width:1200px;
+    height:1700px;
+    margin:auto;
+    padding:15px;
+}
+
+.pichover{
+    height:540px;
+    border-style: hidden;
+    border-width: 1.5px;
+    transition-duration: 0.5s;
+}
+.pichover:hover{
+    transform: scale(1.05);
+    border-style:solid;
+    border-color:lightblue;
+}
